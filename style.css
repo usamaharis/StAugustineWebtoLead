@@ -1,0 +1,32 @@
+body{
+ font: 15px/1.5 Georgia, Georgia, Georgia;
+ padding:0;
+ margin:0;
+ background-color:#F4F3F1;
+}
+
+ .container{
+   width:80%;
+   margin:auto;
+   overflow:hidden
+
+ }
+
+ header{
+   background:#C7B670;
+   padding-top:30px;
+   padding-bottom:30px;
+   min-heigh: 70px;
+   border-bottom:#000000 5px solid;
+   text-align: center;
+ }
+
+ header img{
+   width: 350px;
+ }
+
+ #Form{
+   padding-top: 50px;
+   text-align: center;
+
+ }
